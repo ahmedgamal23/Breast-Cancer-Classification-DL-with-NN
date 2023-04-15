@@ -9,6 +9,9 @@ Breast Cancer Classification DL with NN  about data   - Diagnosis (M = malignant
 ###### ID number
 ###### Diagnosis (M = malignant, B = benign)
 
+![Neural_network svg](https://user-images.githubusercontent.com/99516536/232212308-77703fa0-03ce-487f-b6e3-15befd045943.png)
+
+
 ### Ten real-valued features are computed for each cell nucleus:
 ###### radius (mean of distances from center to points on the perimeter)
 ###### texture (standard deviation of gray-scale values)
